@@ -7,6 +7,7 @@ It's Tailored to yout personal tastes and nutritinonal needs (NO AI included).
 https://elishay.netlify.app/
 ## Overview of the project
 
-https://github.com/Ninjalbg78/Omnifood-Project/assets/126517267/af8d5070-0333-45a6-8f47-592785e9fd7c
+
+![Capture d'écran 2023-12-25 211812](https://github.com/Ninjalbg78/Omnifood-Project/assets/126517267/f0280378-5b13-4df7-982c-eecb404c7f49)
 
 
