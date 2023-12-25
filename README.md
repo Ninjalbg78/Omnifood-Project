@@ -5,3 +5,8 @@ Omnifood is AI-powered food subscription that will make you healthy again,365 da
 It's Tailored to yout personal tastes and nutritinonal needs (NO AI included).
 ### The link of the Project!
 https://elishay.netlify.app/
+## Overview of the project
+
+https://github.com/Ninjalbg78/Omnifood-Project/assets/126517267/af8d5070-0333-45a6-8f47-592785e9fd7c
+
+
